@@ -1,0 +1,25 @@
+---
+course_id: 6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011
+layout: course_section
+menu:
+  leftnav:
+    identifier: 5d1a5094f9b1d4d4bff191eb06deeed4
+    name: Assignments
+    weight: 50
+title: Assignments
+type: course
+uid: 5d1a5094f9b1d4d4bff191eb06deeed4
+
+---
+
+If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, [available here](http://www.python.org/download/releases/2.6.6/). You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
+
+| ASSN # | ASSIGNMENTS | SUPPORTING FILES |
+| --- | --- | --- |
+| Homework 1 | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw1)) {{< br >}}{{< br >}} Written exercises ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw1_written)) {{< br >}}{{< br >}}  | Code template ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d5f451505dbe740b5e846b6250e1cc1b_hw1.py)) |
+| Homework 2 | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw2)) {{< br >}}{{< br >}} Written exercises ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw2_written)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Code template ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/a2320e6bb311659d997ea561fcd50f90_hw2.py)) {{< br >}}{{< br >}} nims.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ffa33aed58f9f48adbcc063463118f47_nims.py)) {{< br >}}{{< br >}} strings\_and\_lists.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/01e2713db68245ff6adeae3be49d1aef_strings_and_lists.py)) {{< br >}}{{< br >}}  |
+| Project 1: Hangman | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_project1)) |  {{< br >}}{{< br >}} hangman\_template.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/55832f6129c4a1a36f24a07e1b92985b_hangman_template.py)) {{< br >}}{{< br >}} words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/words.txt)) {{< br >}}{{< br >}} Optional extension: {{< br >}}{{< br >}} hangman\_lib.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/380bdfa0bb26d3354d6d7510635be0bc_hangman_lib.py)) {{< br >}}{{< br >}} hangman\_lib\_demo.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6a292a251f26fc437e3995cd3843a75f_hangman_lib_demo.py)) {{< br >}}{{< br >}}  |
+| Homework 3 | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw3)) {{< br >}}{{< br >}} Written exercises ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw3_written)) {{< br >}}{{< br >}}  | Code template ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/a996f282d3c816185be78e04b214a7b7_hw3.py)) |
+| Homework 4 | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw4)) {{< br >}}{{< br >}} Written exercises ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_hw4_written)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Graphics module documentation ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_graphics)) {{< br >}}{{< br >}} graphics.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ac08fc3c887cea057160b22094284ea5_graphics.py)) — be sure to save this in the same directory where your code is saved! {{< br >}}{{< br >}} wheel.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6665b5bc18079cbf03063b397fb63079_wheel.py)) {{< br >}}{{< br >}} rgb.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/rgb.txt)) {{< br >}}{{< br >}} The graphics.py package and documentation are courtesy of John Zelle, and are used with permission. {{< br >}}{{< br >}}  |
+| Project 2: Conway's game of life | Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_project2)) |  {{< br >}}{{< br >}} game\_of\_life\_template.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/59d404532054a757457f81e23b0d0984_game_of_life_template.py)) — download and save as game\_of\_life.py; be sure to save in the same directory as graphics.py {{< br >}}{{< br >}}  |
+| Final project: Tetris |  {{< br >}}{{< br >}} Handout ([PDF]({{< baseurl >}}/sections/assignments/mit6_189iap11_final_proj)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} tetris\_template.py ([PY](/coursemedia/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/0dfbd16180c26babf3edcc57bf50c1f7_tetris_template.py)) — Download and save it in the same directory as graphics.py. Please edit this file, and place your code in the sections that say "YOUR CODE HERE". {{< br >}}{{< br >}}
